@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "604d126cc7cc66239026b020"
+  },
+  "nome": "Medicina",
+  "turno": "diurno",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604d128cc7cc66239026b023"
+  },
+  "nome": "Computação",
+  "turno": "diurno",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604d129fc7cc66239026b026"
+  },
+  "nome": "DireitoNPresta",
+  "turno": "diurno",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604d261f0a8c14421c543c59"
+  },
+  "nome": "Direito",
+  "turno": "diurno",
+  "__v": 0
+}]

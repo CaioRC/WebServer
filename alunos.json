@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "604d126cc7cc66239026b021"
+  },
+  "matricula": "123456",
+  "nome": "Teste1",
+  "dataNascimento": {
+    "$date": "2012-04-23T18:25:43.511Z"
+  },
+  "telefone": {
+    "$oid": "604d126cc7cc66239026b01f"
+  },
+  "curso": {
+    "$oid": "604d126cc7cc66239026b020"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604d128cc7cc66239026b024"
+  },
+  "matricula": "111111",
+  "nome": "Teste2",
+  "dataNascimento": {
+    "$date": "2012-04-23T18:25:43.511Z"
+  },
+  "telefone": {
+    "$oid": "604d128cc7cc66239026b022"
+  },
+  "curso": {
+    "$oid": "604d128cc7cc66239026b023"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "604d129fc7cc66239026b027"
+  },
+  "matricula": "222222",
+  "nome": "Teste3",
+  "dataNascimento": {
+    "$date": "2012-04-23T18:25:43.511Z"
+  },
+  "telefone": {
+    "$oid": "604d129fc7cc66239026b025"
+  },
+  "curso": {
+    "$oid": "604d129fc7cc66239026b026"
+  },
+  "__v": 0
+}]
